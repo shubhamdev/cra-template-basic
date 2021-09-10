@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-all",
+  "version": "1.0.17",
+  "keywords": [
+    "react",
+    "react-router",
+    "react-redux",
+    "redux-saga",
+    "redux",
+    "create-react-app",
+    "template",
+    "utils"
+  ],
+  "description": "CRA-TEMPLATE for react, react-router, redux, redux-saga, utility",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamdev/cra-template-basic.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamdev/cra-template-basic/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
